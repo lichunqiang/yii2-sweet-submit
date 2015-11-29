@@ -1,0 +1,32 @@
+{
+  "name": "yii2-asset-enhance",
+  "version": "1.0.0",
+  "description": "yii2 asset enhancement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxpgw/yii2-asset-enhance.git"
+  },
+  "keywords": [
+    "yii2",
+    "yii.js"
+  ],
+  "author": "lichunqiang <light-li@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lxpgw/yii2-asset-enhance/issues"
+  },
+  "homepage": "https://github.com/lxpgw/yii2-asset-enhance#readme",
+  "dependencies": {
+    "sweetalert": "^1.1.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.16.0",
+    "del": "^1.2.1",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.11.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "light/yii2-sweet-submit",
+  "description": "make yii2 form submit sweet",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lichunqiang",
+      "email": "light-li@hotmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "light\\widgets\\": ""
+    }
+  }
+}
