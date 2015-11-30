@@ -40,14 +40,14 @@ use light\widgets\SweetSubmitAsset;
 SweetSubmitAsset::register($this);
 ```
 
-Once you had depends it in your project, `yii.swal` is available. What's this? It's just the [sweet-alert](), now you can use it:
+Once you had depends it in your project, `yii.swal` is available. What's this? It's just the [sweet-alert](http://t4t5.github.io/sweetalert/), now you can use it:
 
 ```
 //your some.js
 yii.swal('Opps. this is shown by sweet-alert');
 ```
 
-There is more usage you can find from [document]()
+There is more usage you can find from [document](http://t4t5.github.io/sweetalert/)
 
 ## License
 

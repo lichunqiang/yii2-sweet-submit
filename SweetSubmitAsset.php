@@ -4,7 +4,13 @@ use Yii;
 use yii\helpers\Json;
 use yii\web\AssetBundle;
 use yii\web\View;
-
+/**
+ * sweet-submit asset
+ *
+ * @package light\widgets
+ * @version 1.0.0
+ * @author lichunqiang <light-li@hotmail.com>
+ */
 class SweetSubmitAsset extends AssetBundle
 {
     /**
@@ -17,11 +23,6 @@ class SweetSubmitAsset extends AssetBundle
      */
     public $depends = [
         'yii\web\YiiAsset',
-    ];
-
-    public $publishOptions = [
-        'forceCopy' => true,
-
     ];
 
     /**
