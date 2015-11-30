@@ -1,5 +1,5 @@
 <?php
 return [
-    'confirmButtonText' => '确定',
-    'cancelButtonText' => '取消',
+    'Ok' => '确定',
+    'Cancel' => '取消',
 ];

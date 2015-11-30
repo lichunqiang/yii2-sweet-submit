@@ -44,8 +44,8 @@ class SweetSubmitAsset extends AssetBundle
         $view = Yii::$app->view;
 
         $opts = [
-            'confirmButtonText' => Yii::t('sweetsubmit', 'confirmButtonText'),
-            'cancelButtonText' => Yii::t('sweetsubmit', 'cancelButtonText'),
+            'confirmButtonText' => Yii::t('sweetsubmit', 'Ok'),
+            'cancelButtonText' => Yii::t('sweetsubmit', 'Cancel'),
         ];
         $opts = Json::encode($opts);
 
