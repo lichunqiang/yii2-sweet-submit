@@ -15,5 +15,8 @@
     "psr-4": {
       "light\\widgets\\": ""
     }
+  },
+  "require-dev": {
+    "fabpot/php-cs-fixer": "^1.11"
   }
 }
