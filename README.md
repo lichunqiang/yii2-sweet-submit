@@ -18,10 +18,10 @@ $ composer require light\yii2-sweet-submit=*
 
 ## Usage
 
-Can can depends this in your assets:
+you can depends this in your assets:
 
 ```
-class YourAsset extends AssetBundle
+class AppAsset extends AssetBundle
 {
     //..
 
