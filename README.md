@@ -5,6 +5,7 @@
     <h1 align="center">Yii2 Sweeet Submit</h1>
     <br>
 </p>
+
 [![version](https://img.shields.io/packagist/v/light/yii2-sweet-submit.svg?style=flat-square)](https://packagist.org/packages/light/yii2-sweet-submit)
 [![Download](https://img.shields.io/packagist/dt/light/yii2-sweet-submit.svg?style=flat-square)](https://packagist.org/packages/light/yii2-sweet-submit)
 [![Issues](https://img.shields.io/github/issues/lichunqiang/yii2-sweet-submit.svg?style=flat-square)](https://github.com/lichunqiang/yii2-sweet-submit/issues)
